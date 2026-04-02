@@ -1,0 +1,22 @@
+.btn-blue {
+	background-color: #2d6a45;
+	background-image: linear-gradient(180deg, #3a7d52 0%, #25603c 100%);
+	padding: 16px 32px;
+	border-radius: 6px;
+	color: #f4fff6;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 0.9375rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.14em;
+	transition: 0.35s;
+	box-shadow: 0 4px 16px rgba(20, 70, 42, 0.4);
+	border: 1px solid rgba(180, 220, 185, 0.35);
+}
+
+.btn-blue:hover {
+	background-color: #1e4a30;
+	background-image: linear-gradient(180deg, #2a5c3c 0%, #163d28 100%);
+	color: #e8ffe8;
+	box-shadow: 0 6px 22px rgba(15, 50, 30, 0.5);
+}
